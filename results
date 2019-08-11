@@ -1,0 +1,39 @@
+FT2:						
+	avrora
+		count: 300
+		time: 57322
+	xalan
+		count: 180
+		time: 51509
+
+FT2_S:
+	avrora with sampling_rate=50
+		count: 300
+		time: 63505
+	avrora with sampling_rate=5
+		count: 257
+		time: 56482
+	avrora with sampling_rate=1
+		count: 204
+		time: 55646
+
+	xalan with sampling_rate=50
+		count: 136
+		time: 54551
+	xalan with sampling_rate=5
+		count: 48
+		time: 49441
+	xalan with sampling_rate=1
+		count: 8
+		time: 47443
+	
+	lusearch with sampling_rate=50
+		count: 5
+		time: 85536
+	lusearch with sampling_rate=5
+		count: 1
+		time: 91961
+	
+
+	
+		
